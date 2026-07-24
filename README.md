@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 34 mins
+Total Time: 28 hrs 56 mins
 
-C++                  10 hrs 55 mins        ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-YAML                 9 hrs 28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Markdown             5 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-TOML                 3 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Other                3 hrs 14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+YAML                 10 hrs 19 mins        ████████░░░░░░░░░░░░░░░░░   31.60 %
+Markdown             5 hrs 49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+C++                  4 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Other                3 hrs 44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+TOML                 3 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
 ```
 
 <!--END_SECTION:waka-->
