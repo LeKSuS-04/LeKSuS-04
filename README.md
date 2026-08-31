@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 hrs 29 mins
+Total Time: 42 hrs 19 mins
 
-C++                  21 hrs 33 mins        ██████████▓░░░░░░░░░░░░░░   42.44 %
-YAML                 8 hrs 22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-Markdown             7 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Protocol Buffer      3 hrs 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Go                   3 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+C++                  18 hrs 52 mins        ███████████░░░░░░░░░░░░░░   43.35 %
+YAML                 7 hrs 21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+Markdown             6 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Go                   3 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Protocol Buffer      1 hr 27 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
